@@ -41,4 +41,3 @@ The Music Recommender System is a project that leverages machine learning and th
 ## Credits
 
 This project is developed by Shivam and is inspired by a passion for music and a curiosity for machine learning applications.
-"""
